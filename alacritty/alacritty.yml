@@ -1,0 +1,13 @@
+import:
+  - ~/.config/alacritty/colors.yml
+
+font:
+  normal:
+    family: Iosevka 
+
+  size: 13
+
+window:
+  padding:
+    x: 25
+    y: 25
